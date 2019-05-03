@@ -1,5 +1,7 @@
 # IT-era / LaravelPassword
 
+Provide convenient laravel command to encrypt password
+
 ## Installation
 
 ```sh
