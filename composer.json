@@ -2,6 +2,7 @@
     "name": "it-era/laravel-password",
     "description": "Provide convenient laravel command to encrypt password",
     "type": "library",
+    "license": "GPL-3.0+",
     "authors": [
         {
             "name": "Quentin Petel / IT-era",
