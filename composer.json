@@ -11,7 +11,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "IT-era\\LaravelPassword\\": "src/"
+            "ITera\\LaravelPassword\\": "src/"
         }
     }
 }
