@@ -1,0 +1,17 @@
+{
+    "name": "it-era/laravel-password",
+    "description": "Provide convenient laravel command to encrypt password",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Quentin Petel / IT-era",
+            "email": "contact@it-era.dev"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "IT-era\\LaravelPassword\\": "src/"
+        }
+    }
+}
