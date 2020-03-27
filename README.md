@@ -2,13 +2,18 @@
 
 Provide convenient laravel command to encrypt password
 
+[![Packagist](https://badgen.net/packagist/v/it-era/laravel-password)](https://packagist.org/packages/it-era/laravel-password)
+
 ## Installation
+
+Get it on packagist :
 
 ```sh
 composer require it-era/laravel-password
 ```
 
 Add the provider to your config/app.php
+
 ```php
     'providers' => [
         // ...
@@ -23,7 +28,8 @@ Add the provider to your config/app.php
 
 Returns a hashed password.
 
-Usage : 
+Usage :
+
 ```sh
 php artisan make:password {password?}
 ```
